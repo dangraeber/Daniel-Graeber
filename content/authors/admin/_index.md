@@ -1,6 +1,6 @@
 ---
 role: PhD student
-avatar_filename: img_20191020_174427599_hdr.jpg
+avatar_filename: https://www.diw.de/sixcms/media.php/37/thumbnails/DGraeber.jpg.546438.jpg
 bio: My research interests include social determinants of health, social
   mobility as well asthe  consequences of the COVID-19 pandemic
 interests: []
